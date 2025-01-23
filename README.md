@@ -1,3 +1,5 @@
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/saturdays)
+
 # The Saturday Sessions
 
 Welcome to the The Saturday Sessions, a collection of tutorials and resources designed to
