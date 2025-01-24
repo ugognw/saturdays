@@ -39,7 +39,7 @@ body:
     id: checklist
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com).
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://www.github.com/ugognw/saturdays/CODE_OF_CONDUCT.md).
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
@@ -54,7 +54,7 @@ body:
         - label: I have included the output of `python3 -m pip freeze`
           required: true
       label: MWE
-      description: Smaller/simpler examples facilitate debugging
+      description: Smaller/simpler examples to facilitate debugging
       options:
         - label: I have distilled my problem to the minimum amount of code required to reproduce to issue
           required: true
