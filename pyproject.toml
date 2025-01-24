@@ -225,7 +225,7 @@ forced-separate = ["conftest"]
 force-single-line = true
 force-sort-within-sections = true
 split-on-trailing-comma = false
-known-first-party = ["welcome_guide"]
+known-first-party = ["saturdays"]
 
 [tool.ruff.lint.per-file-ignores]
 "**/{tests,docs,tools}/*" = ["E402"]  # allow module-import-not-at-top-of-file
