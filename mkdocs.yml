@@ -6,6 +6,17 @@ site_author: "Ugochukwu Nwosu"
 nav:
   - Overview:
     - Home: index.md
+    - Quickstart: quickstart.md
+  - 'software_pages.md'
+  - Samples:
+    - 'samples/python.md'
+    - 'Bash Profile': 'samples/bash.md'
+    - 'samples/slurm.md'
+  - Tutorials:
+    - Intro: 'tutorials/index.md'
+  - 'Development Guide':
+    - Contributing: 'dev_guide/contributing.md'
+    - 'dev_guide/code_of_conduct.md'
 
 theme:
   name: material
