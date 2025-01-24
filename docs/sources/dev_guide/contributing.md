@@ -18,7 +18,6 @@ looks forward to your contributions. 🎉
   - [Reporting Bugs](#reporting-bugs)
   - [Got a Question?](#got-a-question)
   - [Suggesting Enhancements](#suggesting-enhancements)
-  - [Where to Contribute](#where-to-contribute)
 
 ## Code of Conduct (WIP)
 
@@ -46,7 +45,9 @@ looks forward to your contributions. 🎉
 
 5. Install pre-commit hooks
 
+    ```bash
     pre-commit install --hook-type pre-push --hook-type pre-commit
+    ```
 
 ## Reporting Bugs
 
@@ -67,9 +68,5 @@ Before reporting a bug, please perform the following checks:
 - open a PR
 - hotfixes target main
 - new features target development
-
-## Where to Contribute
-
-- add new resources to the collection (and please annotate!)
 
 [hatch]: https://hatch.pypa.io/latest
