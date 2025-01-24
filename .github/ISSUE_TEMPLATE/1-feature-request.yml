@@ -1,7 +1,7 @@
 name: Feature Request
 description: Request a new feature for the repository.
 title: "[Feature Request]: "
-labels: ["feature"]
+labels: ["enhancement"]
 projects: ["saturdays"]
 assignees:
   - ugognw
