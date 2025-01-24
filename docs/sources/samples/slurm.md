@@ -67,3 +67,5 @@ etc.).
     Also, if you don't define the path to a Python virtual environment in your
     `.bashrc` file, then you should replace `$COMP_CHEM_ENV` with the path to
     the `activate` script (usually, `path-to-environment/bin/activate`).
+
+[brace-expansion]: https://www.gnu.org/software/bash/manual/bash.html#Brace-Expansion
