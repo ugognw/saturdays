@@ -19,15 +19,6 @@ This guide has several valuable resources to help you get up to speed:
 
 - **Sample Scripts**: example Python and SLURM scripts
 
-## Prerequisites
-
-- **Set up your local machine**: this guide assumes that your local machine
-  is setup up with the necessary software already installed (e.g., Hatch, Python, etc.)
-
-- **Set up your cluster account**: some of the tutorials in the guide
-  require that you connect to the remote clusters provided by the Alliance. For these
-  tutorials, you will need a valid CCDB account and to set up your remote cluster environment.
-
 ## :rocket: Quickstart :rocket:
 
 From the command-line, run:
