@@ -14,6 +14,11 @@ nav:
     - 'samples/slurm.md'
   - Tutorials:
     - Intro: 'tutorials/index.md'
+    - 'tutorials/ai.md'
+    - 'tutorials/big_data.md'
+    - 'tutorials/comp_chem.md'
+    - 'tutorials/fin_mod.md'
+    - 'tutorials/workflows.md'
   - 'Development Guide':
     - Contributing: 'dev_guide/contributing.md'
     - 'dev_guide/code_of_conduct.md'
