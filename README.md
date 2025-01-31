@@ -2,9 +2,9 @@
 
 # The Saturday Sessions
 
-Welcome to the The Saturday Sessions, a collection of tutorials and resources designed to
-provide exposure to equity-seeking students as part of the Open Seeds Cohort and Digital Research Alliance EDIA
-Champions Program.
+Welcome to the landing page for the The Saturday Sessions, an initiative providing workshops and resources
+to equity-seeking students as part of the [Open Seeds Cohort 9][open-seeds] and [Digital Research Alliance EDIA
+Champions Pilot Program][dra-champions].
 
 This guide is intended to lower the barrier to entry so that you can submit your first working jobs
 in a variety of fields with minimal tweaks.
@@ -35,3 +35,6 @@ From the command-line, run:
   ```bash
   python3 -m pip install saturdays
   ```
+
+[open-seeds]: https://we-are-ols.org/open-science-training.html#open-seeds
+[dra-champions]: https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program
