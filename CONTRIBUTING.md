@@ -70,6 +70,7 @@ Before reporting a bug, please perform the following checks:
 
 ## Where to Contribute
 
-- add new resources to the collection (and please annotate!)
+- The Saturday Sessions is currently under development. Contributions to new tutorials
+  and feedback on existing material are greatly appreciated!
 
 [hatch]: https://hatch.pypa.io/latest
